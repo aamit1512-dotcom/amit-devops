@@ -13,7 +13,7 @@
 ## 📦 Projects
 - CI/CD Pipeline using GitHub Actions
 - Dockerized Node.js Application
-- Terraform AWS Infrastructure
+- Terraform Azure Infrastructure
 - Azure DevOps End-to-End Deployment
 
 ## 📫 Contact Me
